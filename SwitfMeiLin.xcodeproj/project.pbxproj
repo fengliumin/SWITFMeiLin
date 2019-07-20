@@ -51,6 +51,7 @@
 		28768FBA22E2A9FE0018A9A9 /* SwitfMeiLinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwitfMeiLinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28768FBE22E2A9FE0018A9A9 /* SwitfMeiLinUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwitfMeiLinUITests.m; sourceTree = "<group>"; };
 		28768FC022E2A9FE0018A9A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28768FCC22E2B2380018A9A9 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +106,7 @@
 				28768F9B22E2A9EF0018A9A9 /* AppDelegate.m */,
 				28768F9D22E2A9EF0018A9A9 /* ViewController.h */,
 				28768F9E22E2A9EF0018A9A9 /* ViewController.m */,
+				28768FCC22E2B2380018A9A9 /* MyPlayground.playground */,
 				28768FA022E2A9EF0018A9A9 /* Main.storyboard */,
 				28768FA322E2A9FE0018A9A9 /* Assets.xcassets */,
 				28768FA522E2A9FE0018A9A9 /* LaunchScreen.storyboard */,
